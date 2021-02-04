@@ -38,7 +38,7 @@ You can also find information on more specific topics in our [cookbook](https://
 
 Try it in Gitpod.
 
-[![Open in Gitpod](https://h6wch.csb.app/)
+[Open in Instruqt](https://h6wch.csb.app/)
 
 ## Installation
 
