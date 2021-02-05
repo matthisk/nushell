@@ -36,9 +36,9 @@ We also have an active [Discord](https://discord.gg/NtAbbGn) and [Twitter](https
 
 You can also find information on more specific topics in our [cookbook](https://www.nushell.sh/cookbook/).
 
-Try it in Gitpod.
+Try it on Instruqt.
 
-[Open in Instruqt](https://play.instruqt.com/embed/instruqt/nushell-playground?autoStart=1&hideAssignment=1&hideCheckButton=1)
+[![Open in Instruqt](https://user-images.githubusercontent.com/602837/107056311-7fcf0980-67d2-11eb-96fc-21a5050174c0.png)](https://play.instruqt.com/embed/instruqt/nushell-playground?autoStart=1&hideAssignment=1&hideCheckButton=1)
 
 ## Installation
 
