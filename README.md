@@ -1,6 +1,6 @@
 # README
 
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Instruqt-Ready%20to%20Code-blueviolet](https://user-images.githubusercontent.com/602837/107056311-7fcf0980-67d2-11eb-96fc-21a5050174c0.png)](https://play.instruqt.com/embed/instruqt/nushell-playground?autoStart=1&hideAssignment=1&hideCheckButton=1)
+[![Instruqt Ready-to-Code](https://img.shields.io/badge/Instruqt-Ready%20to%20Code-blueviolet)](https://play.instruqt.com/embed/instruqt/nushell-playground?autoStart=1&hideAssignment=1&hideCheckButton=1)
 [![Crates.io](https://img.shields.io/crates/v/nu.svg)](https://crates.io/crates/nu)
 [![Build Status](https://dev.azure.com/nushell/nushell/_apis/build/status/nushell.nushell?branchName=master)](https://dev.azure.com/nushell/nushell/_build/latest?definitionId=2&branchName=master)
 [![Discord](https://img.shields.io/discord/601130461678272522.svg?logo=discord)](https://discord.gg/NtAbbGn)
