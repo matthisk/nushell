@@ -38,7 +38,7 @@ You can also find information on more specific topics in our [cookbook](https://
 
 Try it in Gitpod.
 
-[Open in Instruqt](https://h6wch.csb.app/)
+[Open in Instruqt](https://play.instruqt.com/embed/instruqt/nushell-playground?autoStart=1&hideAssignment=1&hideCheckButton=1)
 
 ## Installation
 
